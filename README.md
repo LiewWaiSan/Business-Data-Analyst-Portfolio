@@ -1,6 +1,6 @@
 # Data & Business Analysis Portfolio
 
-Welcome to my portfolio! As a Senior Business and Data Analyst, I excel at turning complex data into clear, actionable visual insights. My core expertise is building advanced Tableau and Power BI dashboards, interactive reports and robust data models. By integrating these visualization skills with generative AI workflow automation, I deliver smart, scalable solutions that drive strategic decisions.
+Welcome to my portfolio! As a Senior Business / Data Analyst and Data Engineer , I excel at turning complex data into clear, actionable visual insights. My core expertise is building advanced Power BI & tableau dashboards, interactive reports, robust data models and data pipelines. By integrating these visualization skills with generative AI workflow automation, I deliver smart, scalable solutions that drive strategic decisions.
 
 ---
 
