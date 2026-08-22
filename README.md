@@ -15,7 +15,11 @@ Welcome to my portfolio! As a Senior Business and Data Analyst, I excel at turni
 
 ### 🐍 Python & Generative AI
 * **[Staff Augmentation Performance Analytics Platform](https://github.com/LiewWaiSan/Engineer-Management-for-a-Staff-Augmentation-Company/blob/main/LWS_Project.ipynb)**: An interactive dual-core analytics framework leveraging GenAI and SME validation to optimize workforce technical performance and accelerate strategic client growth.
----
+
+* **[Fitlife Studio Management System](https://github.com/LiewWaiSan/Fitlife-Studio-Management-System/blob/main/README.md)**: A Python program that manages gym memberships, checks class booking eligibility, handles renewals, and exports reports.
+
+
+
 
 
 
